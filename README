@@ -1,0 +1,3 @@
+Running this will show you the byte order of your machine.
+my output, 88 77  66 55 44 33 22 11 represents little endian.
+The reverse means your machine uses big endian
